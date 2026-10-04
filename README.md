@@ -105,8 +105,6 @@ This analysis is observational, so the findings show associations rather than ca
 ## Public Health Significance
 Successful agent identification was associated with specimen collection, epidemiologic investigation methods, and environmental assessment activity. These findings suggest that coordinated investigation practices may improve the likelihood of identifying the cause of a foodborne outbreak.
 ## Visualizations
-## Visualizations
-
 ### Agent Identification by Sample Type
 
 ![Agent Identification by Sample Type](agent_identification_by_sample_type.png)
@@ -114,3 +112,5 @@ Successful agent identification was associated with specimen collection, epidemi
 ### Agent Identification by Environmental Assessment Visit
 
 ![Agent Identification by Environmental Assessment Visit](agent_identification_by_environmental_visit.png) 
+## Next Steps
+Future analysis could examine whether these associations remain after accounting for outbreak characteristics, investigation setting, and jurisdictional capacity. Additional analyses could also evaluate whether combinations of investigation activities are associated with higher probabilities of etiologic agent identification.
