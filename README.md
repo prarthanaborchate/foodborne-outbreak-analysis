@@ -104,3 +104,13 @@ The results are consistent with the idea that successful foodborne outbreak inve
 This analysis is observational, so the findings show associations rather than causation. Some categories had small sample sizes, and the analysis did not adjust for potential confounding factors such as outbreak size, jurisdictional resources, or investigation complexity.
 ## Public Health Significance
 Successful agent identification was associated with specimen collection, epidemiologic investigation methods, and environmental assessment activity. These findings suggest that coordinated investigation practices may improve the likelihood of identifying the cause of a foodborne outbreak.
+## Visualizations
+## Visualizations
+
+### Agent Identification by Sample Type
+
+![Agent Identification by Sample Type](agent_identification_by_sample_type.png)
+
+### Agent Identification by Environmental Assessment Visit
+
+![Agent Identification by Environmental Assessment Visit](agent_identification_by_environmental_visit.png) 
