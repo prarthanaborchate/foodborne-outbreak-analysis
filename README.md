@@ -101,7 +101,7 @@ The results are consistent with the idea that successful foodborne outbreak inve
 - I used Fisher's exact test when chi-square assumptions were not met because of small expected cell counts.
 - I grouped environmental assessment visits into 0 versus 1+ visits because the 3- and 4-visit groups were too small to interpret confidently.
 ## Limitations
-This analysis is observational, so the findings show associations rather than causation. Some categories had small sample sizes, and the analysis did not adjust for potential confounding factors such as outbreak size, jurisdictional resources, or investigation complexity.
+This analysis is observational, so the findings show associations rather than causation. Some categories had small sample sizes, and the analysis did not adjust for potential confounding factors such as outbreak size, jurisdictional resources, or investigation complexity. Data were reported by 16 participating state and local U.S. health departments and represent foodborne illness outbreaks investigated in retail food establishments from 2014–2016.
 ## Public Health Significance
 Successful agent identification was associated with specimen collection, epidemiologic investigation methods, and environmental assessment activity. These findings suggest that coordinated investigation practices may improve the likelihood of identifying the cause of a foodborne outbreak.
 ## Visualizations
